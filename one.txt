@@ -1,1 +1,2 @@
 one test
+test jenkins poll scm
